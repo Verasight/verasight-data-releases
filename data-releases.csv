@@ -14,7 +14,7 @@ report_id,repo_name,report_title,preferred_report_url,canonical_question_count,c
 2025-010,verasight-report-2025-010,Verasight SPSP Omnibus Survey #2025-010,https://reports.verasight.io/reports/verasight-spsp-omnibus-survey-2025-010,125,125,ready_for_draft,""
 2025-026,verasight-report-2025-026,Verasight MPSA Omnibus Survey #2025-026,https://reports.verasight.io/reports/verasight-mpsa-omnibus-survey-2025-026,97,97,ready_for_draft,""
 2025-040,verasight-report-2025-040,Verasight AAPOR Omnibus Survey #2025-040,https://reports.verasight.io/reports/verasight-aapor-omnibus-survey-2025-040,35,35,ready_for_draft,""
-2025-064a,verasight-report-2025-064a,AI Adoption Survey June 2025,https://reports.verasight.io/reports/ai-adoption-survey-june-2025,82,11,needs_canonical_reconciliation,canonical wave summary lists 82 question ids but question JSON files reference 11 ids; wave summary includes non-native question ids: 38 from 2025-064c
+2025-064a,verasight-report-2025-064a,AI Adoption Survey June 2025,https://reports.verasight.io/reports/ai-adoption-survey-june-2025,11,11,ready_for_draft,""
 2025-058,verasight-report-2025-058,ICA Conference Omnibus Survey #2025-058,https://reports.verasight.io/reports/ica-conference-omnibus-survey-2025-058,29,29,ready_for_draft,""
 2025-059,verasight-report-2025-059,EPOVB Conference Omnibus Survey #2025-059,https://reports.verasight.io/reports/epovb-conference-omnibus-survey-2025-059,52,52,ready_for_draft,""
 2025-064b,verasight-report-2025-064b,AI Adoption Survey July 2025,https://reports.verasight.io/reports/ai-adoption-survey-july-2025,84,84,ready_for_draft,""
@@ -22,7 +22,7 @@ report_id,repo_name,report_title,preferred_report_url,canonical_question_count,c
 2025-091,verasight-report-2025-091,Verasight JSM Omnibus Survey,https://reports.verasight.io/reports/verasight-jsm-omnibus-survey,24,24,ready_for_draft,""
 2025-097,verasight-report-2025-097,ASA Omnibus Survey,https://reports.verasight.io/reports/asa-omnibus-survey,36,36,ready_for_draft,""
 2025-064c,verasight-report-2025-064c,AI Adoption Survey August 2025,https://reports.verasight.io/reports/ai-adoption-survey-august-2025,81,81,ready_for_draft,""
-2025-119,verasight-report-2025-119,Verasight APSA Omnibus Survey #2025-119,https://reports.verasight.io/reports/verasight-apsa-omnibus-survey-2025-119,78,77,needs_canonical_reconciliation,canonical wave summary lists 78 question ids but question JSON files reference 77 ids; wave summary includes non-native question ids: 1 from 2023-032
+2025-119,verasight-report-2025-119,Verasight APSA Omnibus Survey #2025-119,https://reports.verasight.io/reports/verasight-apsa-omnibus-survey-2025-119,77,77,ready_for_draft,""
 2025-148,verasight-report-2025-148,Verasight APHA Omnibus Survey #2025-148,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148,122,122,ready_for_draft,""
 2025-172,verasight-report-2025-172,Verasight Human/LLM Comparison Survey #2025-172,https://reports.verasight.io/reports/verasight-human-llm-comparison-survey-2025-172,63,63,ready_for_draft,""
 2026-044,verasight-report-2026-044,Verasight Client Omnibus Survey #2026-044,https://reports.verasight.io/reports/omnibus-2026-044,171,171,ready_for_draft,""

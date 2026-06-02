@@ -342,14 +342,14 @@
     "sheet_data_link": "2025-064a_files.zip",
     "raw_present": "yes",
     "methods_present": "yes",
-    "canonical_question_count": 82,
+    "canonical_question_count": 11,
     "canonical_question_ref_count": 11,
-    "canonical_non_native_question_ids": "38 from 2025-064c",
+    "canonical_non_native_question_ids": "",
     "field_start": "2025-06-19",
     "field_end": "2025-06-24",
     "population": "US adults age 18+",
-    "publication_status": "needs_canonical_reconciliation",
-    "blocker_notes": "canonical wave summary lists 82 question ids but question JSON files reference 11 ids; wave summary includes non-native question ids: 38 from 2025-064c"
+    "publication_status": "ready_for_draft",
+    "blocker_notes": ""
   },
   {
     "source": "google-sheet",
@@ -518,14 +518,14 @@
     "sheet_data_link": "2025-119_files.zip",
     "raw_present": "yes",
     "methods_present": "yes",
-    "canonical_question_count": 78,
+    "canonical_question_count": 77,
     "canonical_question_ref_count": 77,
     "canonical_non_native_question_ids": "1 from 2023-032",
     "field_start": "2025-09-22",
     "field_end": "2025-09-29",
     "population": "US adults age 18+",
-    "publication_status": "needs_canonical_reconciliation",
-    "blocker_notes": "canonical wave summary lists 78 question ids but question JSON files reference 77 ids; wave summary includes non-native question ids: 1 from 2023-032"
+    "publication_status": "ready_for_draft",
+    "blocker_notes": ""
   },
   {
     "source": "google-sheet",
