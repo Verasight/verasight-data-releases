@@ -1,39 +1,39 @@
-report_id,repo_name,report_title,preferred_report_url,canonical_question_count,publication_status,blocker_notes
-2022-05,verasight-report-2022-05,2022 Verasight National AAPOR Omnibus Survey,https://reports.verasight.io/reports/2022-verasight-national-aapor-omnibus-survey,15,ready_for_draft,""
-2023-032,verasight-report-2023-032,MPSA 2023 Omnibus Survey #2023-032,https://reports.verasight.io/reports/mpsa-2023-omnibus-survey-2023-032,44,ready_for_draft,""
-2023-036,verasight-report-2023-036,AAPOR 2023 Omnibus Survey #2023-036,https://reports.verasight.io/reports/aapor-2023-omnibus-survey-2023-036,42,ready_for_draft,""
-2023-071,verasight-report-2023-071,2023 APSA Omnibus Survey #2023-071,https://reports.verasight.io/reports/2023-apsa-omnibus-survey-2023-071,77,ready_for_draft,""
-2024-006,verasight-report-2024-006,Verasight Interdisciplinary Omnibus Survey #2024-006,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006,146,ready_for_draft,""
-2024-037,verasight-report-2024-037,Verasight MPSA Omnibus Survey #2024-037,https://reports.verasight.io/reports/verasight-mpsa-omnibus-survey-2024-037,78,ready_for_draft,""
-2024-054,verasight-report-2024-054,Verasight AAPOR Omnibus Survey #2024-054,https://reports.verasight.io/reports/verasight-aapor-omnibus-survey-2024-054,46,ready_for_draft,""
-2024-076,verasight-report-2024-076,Verasight Survey 2024-076,https://reports.verasight.io/reports/verasight-survey-2024-076,0,blocked_raw_present,methods missing; no canonical output
-2024-077,verasight-report-2024-077,Verasight Survey 2024-077,https://reports.verasight.io/reports/verasight-survey-2024-077,0,blocked_raw_present,methods missing; no canonical output
-2024-103,verasight-report-2024-103,Verasight APSA Omnibus Survey #2024-103,https://reports.verasight.io/reports/verasight-apsa-omnibus-survey-2024-103,103,ready_for_draft,""
-2024-122,verasight-report-2024-122,Verasight APHA Omnibus Survey #2024-122,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122,58,ready_for_draft,""
-2025-002,verasight-report-2025-002,Verasight AEA Omnibus Survey #2025-002,https://reports.verasight.io/reports/verasight-aea-omnibus-survey-2025-002,34,ready_for_draft,""
-2025-010,verasight-report-2025-010,Verasight SPSP Omnibus Survey #2025-010,https://reports.verasight.io/reports/verasight-spsp-omnibus-survey-2025-010,125,ready_for_draft,""
-2025-026,verasight-report-2025-026,Verasight MPSA Omnibus Survey #2025-026,https://reports.verasight.io/reports/verasight-mpsa-omnibus-survey-2025-026,97,ready_for_draft,""
-2025-040,verasight-report-2025-040,Verasight AAPOR Omnibus Survey #2025-040,https://reports.verasight.io/reports/verasight-aapor-omnibus-survey-2025-040,35,ready_for_draft,""
-2025-064a,verasight-report-2025-064a,AI Adoption Survey June 2025,https://reports.verasight.io/reports/ai-adoption-survey-june-2025,82,ready_for_draft,""
-2025-058,verasight-report-2025-058,ICA Conference Omnibus Survey #2025-058,https://reports.verasight.io/reports/ica-conference-omnibus-survey-2025-058,29,ready_for_draft,""
-2025-059,verasight-report-2025-059,EPOVB Conference Omnibus Survey #2025-059,https://reports.verasight.io/reports/epovb-conference-omnibus-survey-2025-059,52,ready_for_draft,""
-2025-064b,verasight-report-2025-064b,AI Adoption Survey July 2025,https://reports.verasight.io/reports/ai-adoption-survey-july-2025,84,ready_for_draft,""
-2025-090,verasight-report-2025-090,Verasight Quirks Omnibus Survey,https://reports.verasight.io/reports/verasight-quirks-omnibus-survey,61,ready_for_draft,""
-2025-091,verasight-report-2025-091,Verasight JSM Omnibus Survey,https://reports.verasight.io/reports/verasight-jsm-omnibus-survey,24,ready_for_draft,""
-2025-097,verasight-report-2025-097,ASA Omnibus Survey,https://reports.verasight.io/reports/asa-omnibus-survey,36,ready_for_draft,""
-2025-064c,verasight-report-2025-064c,AI Adoption Survey August 2025,https://reports.verasight.io/reports/ai-adoption-survey-august-2025,81,ready_for_draft,""
-2025-119,verasight-report-2025-119,Verasight APSA Omnibus Survey #2025-119,https://reports.verasight.io/reports/verasight-apsa-omnibus-survey-2025-119,78,ready_for_draft,""
-2025-148,verasight-report-2025-148,Verasight APHA Omnibus Survey #2025-148,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148,122,ready_for_draft,""
-2025-172,verasight-report-2025-172,Verasight Human/LLM Comparison Survey #2025-172,https://reports.verasight.io/reports/verasight-human-llm-comparison-survey-2025-172,63,ready_for_draft,""
-2026-044,verasight-report-2026-044,Verasight Client Omnibus Survey #2026-044,https://reports.verasight.io/reports/omnibus-2026-044,171,ready_for_draft,""
-variety10126,verasight-report-variety10126,April 2026 Verasight Variety Survey,https://reports.verasight.io/reports/variety10126,0,needs_mapping,existing repo scaffold needs data mapping
-2026-049,verasight-report-2026-049,SBM Omnibus Survey #2026-049,https://reports.verasight.io/reports/sbm-2026,65,ready_for_draft,not listed in sheet snapshot
-2025-183,verasight-report-2025-183,2026 Predictions Survey #2025-183,https://reports.verasight.io/reports/2026-predictions-survey-2025-183,89,ready_for_draft,""
-2026-045,verasight-report-2026-045,Verasight SPSP Omnibus Survey #2026-045,https://reports.verasight.io/reports/spsp26,240,ready_for_draft,""
-2023-059,verasight-report-2023-059,2023-059 Quirks NY,https://verasight-quirksny-2023.tiiny.co,0,sheet_only_missing_data,no canonical output; no raw/data ZIP listed
-2023-104,verasight-report-2023-104,2023-104 Consumer variety,https://consumer-variety-report.tiiny.co,0,sheet_only_missing_data,no canonical output; no raw/data ZIP listed
-2025-049,verasight-report-2025-049,2025-049 SBM,NA - upcoming,0,upcoming,no canonical output; upcoming in sheet
-2025-050,verasight-report-2025-050,2025-050 MPSA,NA - upcoming,0,upcoming,no canonical output; upcoming in sheet
-2025-051,verasight-report-2025-051,2025-051 PAA,NA - upcoming,0,upcoming,no canonical output; upcoming in sheet
-2025-052,verasight-report-2025-052,2025-052 AAPOR,NA - upcoming,0,upcoming,no canonical output; upcoming in sheet
-2026-001vs,verasight-report-2026-001vs,2026-001vs Self-serve test,https://reports.verasight.io/reports/march2026-variety-survey,0,sheet_only_missing_data,no canonical output; no raw/data ZIP listed
+report_id,repo_name,report_title,preferred_report_url,canonical_question_count,canonical_question_ref_count,publication_status,blocker_notes
+2022-05,verasight-report-2022-05,2022 Verasight National AAPOR Omnibus Survey,https://reports.verasight.io/reports/2022-verasight-national-aapor-omnibus-survey,15,15,ready_for_draft,""
+2023-032,verasight-report-2023-032,MPSA 2023 Omnibus Survey #2023-032,https://reports.verasight.io/reports/mpsa-2023-omnibus-survey-2023-032,44,44,ready_for_draft,""
+2023-036,verasight-report-2023-036,AAPOR 2023 Omnibus Survey #2023-036,https://reports.verasight.io/reports/aapor-2023-omnibus-survey-2023-036,42,42,ready_for_draft,""
+2023-071,verasight-report-2023-071,2023 APSA Omnibus Survey #2023-071,https://reports.verasight.io/reports/2023-apsa-omnibus-survey-2023-071,77,77,ready_for_draft,""
+2024-006,verasight-report-2024-006,Verasight Interdisciplinary Omnibus Survey #2024-006,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006,146,146,ready_for_draft,""
+2024-037,verasight-report-2024-037,Verasight MPSA Omnibus Survey #2024-037,https://reports.verasight.io/reports/verasight-mpsa-omnibus-survey-2024-037,78,78,ready_for_draft,""
+2024-054,verasight-report-2024-054,Verasight AAPOR Omnibus Survey #2024-054,https://reports.verasight.io/reports/verasight-aapor-omnibus-survey-2024-054,46,46,ready_for_draft,""
+2024-076,verasight-report-2024-076,Verasight Survey 2024-076,https://reports.verasight.io/reports/verasight-survey-2024-076,0,0,blocked_raw_present,methods missing; no canonical output
+2024-077,verasight-report-2024-077,Verasight Survey 2024-077,https://reports.verasight.io/reports/verasight-survey-2024-077,0,0,blocked_raw_present,methods missing; no canonical output
+2024-103,verasight-report-2024-103,Verasight APSA Omnibus Survey #2024-103,https://reports.verasight.io/reports/verasight-apsa-omnibus-survey-2024-103,103,103,ready_for_draft,""
+2024-122,verasight-report-2024-122,Verasight APHA Omnibus Survey #2024-122,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122,58,58,ready_for_draft,""
+2025-002,verasight-report-2025-002,Verasight AEA Omnibus Survey #2025-002,https://reports.verasight.io/reports/verasight-aea-omnibus-survey-2025-002,34,34,ready_for_draft,""
+2025-010,verasight-report-2025-010,Verasight SPSP Omnibus Survey #2025-010,https://reports.verasight.io/reports/verasight-spsp-omnibus-survey-2025-010,125,125,ready_for_draft,""
+2025-026,verasight-report-2025-026,Verasight MPSA Omnibus Survey #2025-026,https://reports.verasight.io/reports/verasight-mpsa-omnibus-survey-2025-026,97,97,ready_for_draft,""
+2025-040,verasight-report-2025-040,Verasight AAPOR Omnibus Survey #2025-040,https://reports.verasight.io/reports/verasight-aapor-omnibus-survey-2025-040,35,35,ready_for_draft,""
+2025-064a,verasight-report-2025-064a,AI Adoption Survey June 2025,https://reports.verasight.io/reports/ai-adoption-survey-june-2025,82,11,needs_canonical_reconciliation,canonical wave summary lists 82 question ids but question JSON files reference 11 ids; wave summary includes non-native question ids: 38 from 2025-064c
+2025-058,verasight-report-2025-058,ICA Conference Omnibus Survey #2025-058,https://reports.verasight.io/reports/ica-conference-omnibus-survey-2025-058,29,29,ready_for_draft,""
+2025-059,verasight-report-2025-059,EPOVB Conference Omnibus Survey #2025-059,https://reports.verasight.io/reports/epovb-conference-omnibus-survey-2025-059,52,52,ready_for_draft,""
+2025-064b,verasight-report-2025-064b,AI Adoption Survey July 2025,https://reports.verasight.io/reports/ai-adoption-survey-july-2025,84,84,ready_for_draft,""
+2025-090,verasight-report-2025-090,Verasight Quirks Omnibus Survey,https://reports.verasight.io/reports/verasight-quirks-omnibus-survey,61,61,ready_for_draft,""
+2025-091,verasight-report-2025-091,Verasight JSM Omnibus Survey,https://reports.verasight.io/reports/verasight-jsm-omnibus-survey,24,24,ready_for_draft,""
+2025-097,verasight-report-2025-097,ASA Omnibus Survey,https://reports.verasight.io/reports/asa-omnibus-survey,36,36,ready_for_draft,""
+2025-064c,verasight-report-2025-064c,AI Adoption Survey August 2025,https://reports.verasight.io/reports/ai-adoption-survey-august-2025,81,81,ready_for_draft,""
+2025-119,verasight-report-2025-119,Verasight APSA Omnibus Survey #2025-119,https://reports.verasight.io/reports/verasight-apsa-omnibus-survey-2025-119,78,77,needs_canonical_reconciliation,canonical wave summary lists 78 question ids but question JSON files reference 77 ids; wave summary includes non-native question ids: 1 from 2023-032
+2025-148,verasight-report-2025-148,Verasight APHA Omnibus Survey #2025-148,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148,122,122,ready_for_draft,""
+2025-172,verasight-report-2025-172,Verasight Human/LLM Comparison Survey #2025-172,https://reports.verasight.io/reports/verasight-human-llm-comparison-survey-2025-172,63,63,ready_for_draft,""
+2026-044,verasight-report-2026-044,Verasight Client Omnibus Survey #2026-044,https://reports.verasight.io/reports/omnibus-2026-044,171,171,ready_for_draft,""
+variety10126,verasight-report-variety10126,April 2026 Verasight Variety Survey,https://reports.verasight.io/reports/variety10126,0,0,needs_mapping,existing repo scaffold needs data mapping
+2026-049,verasight-report-2026-049,SBM Omnibus Survey #2026-049,https://reports.verasight.io/reports/sbm-2026,65,65,ready_for_draft,not listed in sheet snapshot
+2025-183,verasight-report-2025-183,2026 Predictions Survey #2025-183,https://reports.verasight.io/reports/2026-predictions-survey-2025-183,89,89,ready_for_draft,""
+2026-045,verasight-report-2026-045,Verasight SPSP Omnibus Survey #2026-045,https://reports.verasight.io/reports/spsp26,240,240,ready_for_draft,""
+2023-059,verasight-report-2023-059,2023-059 Quirks NY,https://verasight-quirksny-2023.tiiny.co,0,0,sheet_only_missing_data,no canonical output; no raw/data ZIP listed
+2023-104,verasight-report-2023-104,2023-104 Consumer variety,https://consumer-variety-report.tiiny.co,0,0,sheet_only_missing_data,no canonical output; no raw/data ZIP listed
+2025-049,verasight-report-2025-049,2025-049 SBM,NA - upcoming,0,0,upcoming,no canonical output; upcoming in sheet
+2025-050,verasight-report-2025-050,2025-050 MPSA,NA - upcoming,0,0,upcoming,no canonical output; upcoming in sheet
+2025-051,verasight-report-2025-051,2025-051 PAA,NA - upcoming,0,0,upcoming,no canonical output; upcoming in sheet
+2025-052,verasight-report-2025-052,2025-052 AAPOR,NA - upcoming,0,0,upcoming,no canonical output; upcoming in sheet
+2026-001vs,verasight-report-2026-001vs,2026-001vs Self-serve test,https://reports.verasight.io/reports/march2026-variety-survey,0,0,sheet_only_missing_data,no canonical output; no raw/data ZIP listed
