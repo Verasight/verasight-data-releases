@@ -1,30 +1,30 @@
 report_id,repo_name,report_title,report_url,question_count
-2022-05,verasight-report-2022-05,2022 Verasight National AAPOR Omnibus Survey,https://reports.verasight.io/reports/2022-verasight-national-aapor-omnibus-survey,15
-2023-032,verasight-report-2023-032,MPSA 2023 Omnibus Survey #2023-032,https://reports.verasight.io/reports/mpsa-2023-omnibus-survey-2023-032,44
-2023-036,verasight-report-2023-036,AAPOR 2023 Omnibus Survey #2023-036,https://reports.verasight.io/reports/aapor-2023-omnibus-survey-2023-036,42
-2023-071,verasight-report-2023-071,2023 APSA Omnibus Survey #2023-071,https://reports.verasight.io/reports/2023-apsa-omnibus-survey-2023-071,77
-2024-006,verasight-report-2024-006,Verasight Interdisciplinary Omnibus Survey #2024-006,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006,146
-2024-037,verasight-report-2024-037,Verasight MPSA Omnibus Survey #2024-037,https://reports.verasight.io/reports/verasight-mpsa-omnibus-survey-2024-037,78
-2024-054,verasight-report-2024-054,Verasight AAPOR Omnibus Survey #2024-054,https://reports.verasight.io/reports/verasight-aapor-omnibus-survey-2024-054,46
-2024-103,verasight-report-2024-103,Verasight APSA Omnibus Survey #2024-103,https://reports.verasight.io/reports/verasight-apsa-omnibus-survey-2024-103,103
-2024-122,verasight-report-2024-122,Verasight APHA Omnibus Survey #2024-122,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2024-122,58
-2025-002,verasight-report-2025-002,Verasight AEA Omnibus Survey #2025-002,https://reports.verasight.io/reports/verasight-aea-omnibus-survey-2025-002,34
-2025-010,verasight-report-2025-010,Verasight SPSP Omnibus Survey #2025-010,https://reports.verasight.io/reports/verasight-spsp-omnibus-survey-2025-010,125
-2025-026,verasight-report-2025-026,Verasight MPSA Omnibus Survey #2025-026,https://reports.verasight.io/reports/verasight-mpsa-omnibus-survey-2025-026,97
-2025-040,verasight-report-2025-040,Verasight AAPOR Omnibus Survey #2025-040,https://reports.verasight.io/reports/verasight-aapor-omnibus-survey-2025-040,35
-2025-064a,verasight-report-2025-064a,AI Adoption Survey June 2025,https://reports.verasight.io/reports/ai-adoption-survey-june-2025,11
-2025-058,verasight-report-2025-058,ICA Conference Omnibus Survey #2025-058,https://reports.verasight.io/reports/ica-conference-omnibus-survey-2025-058,29
-2025-059,verasight-report-2025-059,EPOVB Conference Omnibus Survey #2025-059,https://reports.verasight.io/reports/epovb-conference-omnibus-survey-2025-059,52
-2025-064b,verasight-report-2025-064b,AI Adoption Survey July 2025,https://reports.verasight.io/reports/ai-adoption-survey-july-2025,84
-2025-090,verasight-report-2025-090,Verasight Quirks Omnibus Survey,https://reports.verasight.io/reports/verasight-quirks-omnibus-survey,61
-2025-091,verasight-report-2025-091,Verasight JSM Omnibus Survey,https://reports.verasight.io/reports/verasight-jsm-omnibus-survey,24
-2025-097,verasight-report-2025-097,ASA Omnibus Survey,https://reports.verasight.io/reports/asa-omnibus-survey,36
-2025-064c,verasight-report-2025-064c,AI Adoption Survey August 2025,https://reports.verasight.io/reports/ai-adoption-survey-august-2025,81
-2025-119,verasight-report-2025-119,Verasight APSA Omnibus Survey #2025-119,https://reports.verasight.io/reports/verasight-apsa-omnibus-survey-2025-119,77
-2025-148,verasight-report-2025-148,Verasight APHA Omnibus Survey #2025-148,https://reports.verasight.io/reports/verasight-apha-omnibus-survey-2025-148,122
-2025-172,verasight-report-2025-172,Verasight Human/LLM Comparison Survey #2025-172,https://reports.verasight.io/reports/verasight-human-llm-comparison-survey-2025-172,63
+2022-05,verasight-report-2022-05,2022 Verasight National AAPOR Omnibus Survey,https://aapor-omnibus-2022.verasight.io,15
+2023-032,verasight-report-2023-032,MPSA 2023 Omnibus Survey #2023-032,https://verasight-mpsa-2023.tiiny.co,44
+2023-036,verasight-report-2023-036,AAPOR 2023 Omnibus Survey #2023-036,https://verasight-aapor-2023.tiiny.co,42
+2023-071,verasight-report-2023-071,2023 APSA Omnibus Survey #2023-071,https://verasight-apsa-2023.tiiny.co,77
+2024-006,verasight-report-2024-006,Verasight Interdisciplinary Omnibus Survey #2024-006,https://github.com/Verasight/verasight-report-2024-006,146
+2024-037,verasight-report-2024-037,Verasight MPSA Omnibus Survey #2024-037,https://verasight-mpsa-2024.tiiny.co,78
+2024-054,verasight-report-2024-054,Verasight AAPOR Omnibus Survey #2024-054,https://verasight-aapor-2024.tiiny.co,46
+2024-103,verasight-report-2024-103,Verasight APSA Omnibus Survey #2024-103,https://verasight-apsa-2024.tiiny.co,103
+2024-122,verasight-report-2024-122,Verasight APHA Omnibus Survey #2024-122,https://verasight-apha-2024.tiiny.co,58
+2025-002,verasight-report-2025-002,Verasight AEA Omnibus Survey #2025-002,https://github.com/Verasight/verasight-report-2025-002,34
+2025-010,verasight-report-2025-010,Verasight SPSP Omnibus Survey #2025-010,https://verasight-spsp-2025.tiiny.co,125
+2025-026,verasight-report-2025-026,Verasight MPSA Omnibus Survey #2025-026,https://verasight-mpsa-2025.tiiny.co,97
+2025-040,verasight-report-2025-040,Verasight AAPOR Omnibus Survey #2025-040,https://verasight-aapor-2025.tiiny.co,35
+2025-064a,verasight-report-2025-064a,AI Adoption Survey June 2025,https://github.com/Verasight/verasight-report-2025-064a,11
+2025-058,verasight-report-2025-058,ICA Conference Omnibus Survey #2025-058,https://verasight-ica-2025.tiiny.co,29
+2025-059,verasight-report-2025-059,EPOVB Conference Omnibus Survey #2025-059,https://verasight-epovb.tiiny.co,52
+2025-064b,verasight-report-2025-064b,AI Adoption Survey July 2025,https://github.com/Verasight/verasight-report-2025-064b,84
+2025-090,verasight-report-2025-090,Verasight Quirks Omnibus Survey,https://verasight-quirks-2025.tiiny.co,61
+2025-091,verasight-report-2025-091,Verasight JSM Omnibus Survey,https://reports.verasight.io/reports/jsm-2025,24
+2025-097,verasight-report-2025-097,ASA Omnibus Survey,https://reports.verasight.io/reports/asa-2025,36
+2025-064c,verasight-report-2025-064c,AI Adoption Survey August 2025,https://reports.verasight.io/reports/august-ai-survey-2025,81
+2025-119,verasight-report-2025-119,Verasight APSA Omnibus Survey #2025-119,https://reports.verasight.io/reports/apsa-2025,77
+2025-148,verasight-report-2025-148,Verasight APHA Omnibus Survey #2025-148,https://reports.verasight.io/reports/verasight-apha-2025,122
+2025-172,verasight-report-2025-172,Verasight Human/LLM Comparison Survey #2025-172,https://reports.verasight.io/reports/verasight-human-v-synthetic,63
 2026-044,verasight-report-2026-044,Verasight Client Omnibus Survey #2026-044,https://reports.verasight.io/reports/omnibus-2026-044,171
 variety10126,verasight-report-variety10126,April 2026 Verasight Variety Survey,https://reports.verasight.io/reports/variety10126,73
 2026-049,verasight-report-2026-049,SBM Omnibus Survey #2026-049,https://reports.verasight.io/reports/sbm-2026,65
-2025-183,verasight-report-2025-183,2026 Predictions Survey #2025-183,https://reports.verasight.io/reports/2026-predictions-survey-2025-183,89
+2025-183,verasight-report-2025-183,2026 Predictions Survey #2025-183,https://reports.verasight.io/reports/2026-predictions,89
 2026-045,verasight-report-2026-045,Verasight SPSP Omnibus Survey #2026-045,https://reports.verasight.io/reports/spsp26,240
