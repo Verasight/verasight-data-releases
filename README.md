@@ -17,6 +17,10 @@ Each report repository contains public survey files: question wording, toplines,
 | `2026-243` | [`verasight-report-2026-243`](https://github.com/Verasight/verasight-report-2026-243) | September Verasight National Survey: Current Events and Prediction Markets | 48 | <https://reports.verasight.io/r/2026-243-current-events-report><br><https://reports.verasight.io/r/2026-243-prediction-markets-report> |
 | `2026-152` | [`verasight-report-2026-152`](https://github.com/Verasight/verasight-report-2026-152) | AOM Omnibus | 34 | <https://reports.verasight.io/r/aom-2026> |
 | `2026-206` | [`verasight-report-2026-206`](https://github.com/Verasight/verasight-report-2026-206) | JSM and Quirk's Omnibus Survey | 27 | <https://reports.verasight.io/r/jsm-quirks-2026> |
+| `2026-050` | [`verasight-report-2026-050`](https://github.com/Verasight/verasight-report-2026-050) | Verasight MPSA Omnibus Survey #2026-050 | 131 | <https://reports.verasight.io/r/mpsa26> |
+| `2026-051` | [`verasight-report-2026-051`](https://github.com/Verasight/verasight-report-2026-051) | Verasight PAA Omnibus Survey #2026-051 | 58 | <https://reports.verasight.io/r/paa-2026> |
+| `2026-052` | [`verasight-report-2026-052`](https://github.com/Verasight/verasight-report-2026-052) | Verasight AAPOR Omnibus Survey #2026-052 | 37 | <https://reports.verasight.io/r/aapor-2026> |
+| `2026-170` | [`verasight-report-2026-170`](https://github.com/Verasight/verasight-report-2026-170) | What do Americans from both parties agree on? AI Regulation | 96 | <https://reports.verasight.io/r/june-2026-ai-survey> |
 | `2022-05` | [`verasight-report-2022-05`](https://github.com/Verasight/verasight-report-2022-05) | 2022 Verasight National AAPOR Omnibus Survey | 15 | <https://aapor-omnibus-2022.verasight.io> |
 | `2023-032` | [`verasight-report-2023-032`](https://github.com/Verasight/verasight-report-2023-032) | MPSA 2023 Omnibus Survey #2023-032 | 44 | <https://verasight-mpsa-2023.tiiny.co> |
 | `2023-036` | [`verasight-report-2023-036`](https://github.com/Verasight/verasight-report-2023-036) | AAPOR 2023 Omnibus Survey #2023-036 | 42 | <https://verasight-aapor-2023.tiiny.co> |

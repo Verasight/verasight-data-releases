@@ -21,6 +21,34 @@
     "question_count": 27
   },
   {
+    "report_id": "2026-050",
+    "repo_name": "verasight-report-2026-050",
+    "report_title": "Verasight MPSA Omnibus Survey #2026-050",
+    "report_url": "https://reports.verasight.io/r/mpsa26",
+    "question_count": 131
+  },
+  {
+    "report_id": "2026-051",
+    "repo_name": "verasight-report-2026-051",
+    "report_title": "Verasight PAA Omnibus Survey #2026-051",
+    "report_url": "https://reports.verasight.io/r/paa-2026",
+    "question_count": 58
+  },
+  {
+    "report_id": "2026-052",
+    "repo_name": "verasight-report-2026-052",
+    "report_title": "Verasight AAPOR Omnibus Survey #2026-052",
+    "report_url": "https://reports.verasight.io/r/aapor-2026",
+    "question_count": 37
+  },
+  {
+    "report_id": "2026-170",
+    "repo_name": "verasight-report-2026-170",
+    "report_title": "What do Americans from both parties agree on? AI Regulation",
+    "report_url": "https://reports.verasight.io/r/june-2026-ai-survey",
+    "question_count": 96
+  },
+  {
     "report_id": "2022-05",
     "repo_name": "verasight-report-2022-05",
     "report_title": "2022 Verasight National AAPOR Omnibus Survey",
