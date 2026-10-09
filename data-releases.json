@@ -1,5 +1,26 @@
 [
   {
+    "report_id": "2026-243",
+    "repo_name": "verasight-report-2026-243",
+    "report_title": "September Verasight National Survey: Current Events and Prediction Markets",
+    "report_url": "https://reports.verasight.io/r/2026-243-current-events-report",
+    "question_count": 48
+  },
+  {
+    "report_id": "2026-152",
+    "repo_name": "verasight-report-2026-152",
+    "report_title": "AOM Omnibus",
+    "report_url": "https://reports.verasight.io/r/aom-2026",
+    "question_count": 34
+  },
+  {
+    "report_id": "2026-206",
+    "repo_name": "verasight-report-2026-206",
+    "report_title": "JSM and Quirk's Omnibus Survey",
+    "report_url": "https://reports.verasight.io/r/jsm-quirks-2026",
+    "question_count": 27
+  },
+  {
     "report_id": "2022-05",
     "repo_name": "verasight-report-2022-05",
     "report_title": "2022 Verasight National AAPOR Omnibus Survey",
@@ -31,7 +52,7 @@
     "report_id": "2024-006",
     "repo_name": "verasight-report-2024-006",
     "report_title": "Verasight Interdisciplinary Omnibus Survey #2024-006",
-    "report_url": "https://github.com/Verasight/verasight-report-2024-006",
+    "report_url": "https://www.verasight.io/post/verasights-supports-academic-and-nonprofit-researchers",
     "question_count": 146
   },
   {
@@ -66,7 +87,7 @@
     "report_id": "2025-002",
     "repo_name": "verasight-report-2025-002",
     "report_title": "Verasight AEA Omnibus Survey #2025-002",
-    "report_url": "https://github.com/Verasight/verasight-report-2025-002",
+    "report_url": "https://verasight-aea-2025.tiiny.co",
     "question_count": 34
   },
   {
@@ -94,7 +115,7 @@
     "report_id": "2025-064a",
     "repo_name": "verasight-report-2025-064a",
     "report_title": "AI Adoption Survey June 2025",
-    "report_url": "https://github.com/Verasight/verasight-report-2025-064a",
+    "report_url": "https://www.verasight.io/reports/ai-report-july25",
     "question_count": 11
   },
   {
@@ -115,7 +136,7 @@
     "report_id": "2025-064b",
     "repo_name": "verasight-report-2025-064b",
     "report_title": "AI Adoption Survey July 2025",
-    "report_url": "https://github.com/Verasight/verasight-report-2025-064b",
+    "report_url": "https://verasight-monthly-ai-july.tiiny.co",
     "question_count": 84
   },
   {
@@ -129,77 +150,77 @@
     "report_id": "2025-091",
     "repo_name": "verasight-report-2025-091",
     "report_title": "Verasight JSM Omnibus Survey",
-    "report_url": "https://reports.verasight.io/reports/jsm-2025",
+    "report_url": "https://reports.verasight.io/r/jsm-2025",
     "question_count": 24
   },
   {
     "report_id": "2025-097",
     "repo_name": "verasight-report-2025-097",
     "report_title": "ASA Omnibus Survey",
-    "report_url": "https://reports.verasight.io/reports/asa-2025",
+    "report_url": "https://reports.verasight.io/r/asa-2025",
     "question_count": 36
   },
   {
     "report_id": "2025-064c",
     "repo_name": "verasight-report-2025-064c",
     "report_title": "AI Adoption Survey August 2025",
-    "report_url": "https://reports.verasight.io/reports/august-ai-survey-2025",
+    "report_url": "https://reports.verasight.io/r/august-ai-survey-2025",
     "question_count": 81
   },
   {
     "report_id": "2025-119",
     "repo_name": "verasight-report-2025-119",
     "report_title": "Verasight APSA Omnibus Survey #2025-119",
-    "report_url": "https://reports.verasight.io/reports/apsa-2025",
+    "report_url": "https://reports.verasight.io/r/apsa-2025",
     "question_count": 77
   },
   {
     "report_id": "2025-148",
     "repo_name": "verasight-report-2025-148",
     "report_title": "Verasight APHA Omnibus Survey #2025-148",
-    "report_url": "https://reports.verasight.io/reports/verasight-apha-2025",
+    "report_url": "https://reports.verasight.io/r/verasight-apha-2025",
     "question_count": 122
   },
   {
     "report_id": "2025-172",
     "repo_name": "verasight-report-2025-172",
     "report_title": "Verasight Human/LLM Comparison Survey #2025-172",
-    "report_url": "https://reports.verasight.io/reports/verasight-human-v-synthetic",
+    "report_url": "https://reports.verasight.io/r/verasight-human-v-synthetic",
     "question_count": 63
   },
   {
     "report_id": "2026-044",
     "repo_name": "verasight-report-2026-044",
     "report_title": "Verasight Client Omnibus Survey #2026-044",
-    "report_url": "https://reports.verasight.io/reports/omnibus-2026-044",
+    "report_url": "https://reports.verasight.io/r/omnibus-2026-044",
     "question_count": 171
   },
   {
     "report_id": "variety10126",
     "repo_name": "verasight-report-variety10126",
     "report_title": "April 2026 Verasight Variety Survey",
-    "report_url": "https://reports.verasight.io/reports/variety10126",
+    "report_url": "https://reports.verasight.io/r/variety10126",
     "question_count": 73
   },
   {
     "report_id": "2026-049",
     "repo_name": "verasight-report-2026-049",
     "report_title": "SBM Omnibus Survey #2026-049",
-    "report_url": "https://reports.verasight.io/reports/sbm-2026",
+    "report_url": "https://reports.verasight.io/r/sbm-2026",
     "question_count": 65
   },
   {
     "report_id": "2025-183",
     "repo_name": "verasight-report-2025-183",
     "report_title": "2026 Predictions Survey #2025-183",
-    "report_url": "https://reports.verasight.io/reports/2026-predictions",
+    "report_url": "https://reports.verasight.io/r/2026-predictions",
     "question_count": 89
   },
   {
     "report_id": "2026-045",
     "repo_name": "verasight-report-2026-045",
     "report_title": "Verasight SPSP Omnibus Survey #2026-045",
-    "report_url": "https://reports.verasight.io/reports/spsp26",
+    "report_url": "https://reports.verasight.io/r/spsp26",
     "question_count": 240
   }
 ]
